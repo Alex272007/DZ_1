@@ -12,3 +12,4 @@ C:\Users\aleks\OneDrive\Рабочий стол\GeekBrinks\dz_1\Task_1\obj\Debug
 C:\Users\aleks\OneDrive\Рабочий стол\GeekBrinks\dz_1\Task_1\obj\Debug\net8.0\Task_1.pdb
 C:\Users\aleks\OneDrive\Рабочий стол\GeekBrinks\dz_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
 C:\Users\aleks\OneDrive\Рабочий стол\GeekBrinks\dz_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
+C:\Users\aleks\OneDrive\Рабочий стол\GeekBrinks\dz_1\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
