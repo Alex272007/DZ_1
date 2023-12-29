@@ -1,26 +1,3 @@
-﻿// Напишите программу, которая принимает на вход трёхзначное
-// число и возводит вторую цифру этого числа в степень, равную
-// третьей цифре.
-// Примеры
-// 487 => 8^7 = 2 097 152
-// 254 => 5^4 = 625
-// 617 => 1
-
-Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-if (number >= 100 && number <= 999)
-{
-    int secondDigit = number / 10 % 10; // 275 / 10 % 10 = 27 % 10 = 7
-    int thirdDigit = number % 10; // 275 % 10 = 5
-    // Math.Pow(5, 2) => 5 в 2 степени => 25
-    int result = (int)Math.Pow(secondDigit, thirdDigit);
-    Console.WriteLine($"{number}: {secondDigit}^{thirdDigit} = {result}");
-}
-else
-{
-    Console.WriteLine("Число не трехзначное!");
-}
-
 
 // Напишите программу, которая принимает на вход трёхзначное
 // число и возводит вторую цифру этого числа в степень, равную
